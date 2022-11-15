@@ -1,2 +1,2 @@
-# google-app-engine
-Google App Engine using Python Project CV contents as the main page
+# resume web application
+Google App Engine Project that dispalys CV contents on the main page.
